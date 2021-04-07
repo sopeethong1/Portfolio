@@ -221,15 +221,15 @@
   
   /* portfolio project images */
   .run-buddy {
-    background-image: url("./screenshot\ for\ PNP.PNG");
+    background-image: url("./pnp.png");
   }
   
   .led-wall {
-    background-image: url("../images/02-portfolio-1.jpg");
+    background-image: url("./password\ gen.PNG");
   }
   
   .react-calc {
-    background-image: url("../images/02-portfolio-2.jpg");
+    background-image: url("./screenshot_final_homework1.png");
   }
   
   
