@@ -51,6 +51,7 @@
     margin: 0;
     font-size: 4vw;
     line-height: 1;
+    align-items: center;
   }
   
   nav {
