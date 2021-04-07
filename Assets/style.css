@@ -40,13 +40,13 @@
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-color: var(--tertiary);
-    box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
+    background-color: rgb(218, 154, 103);
+    box-shadow: 0 5px 35px rgb(218, 154, 103, 0.4);
   }
   
   header h1 {
-    color: var(--tertiary);
-    background-color: var(--secondary);
+    color: rgb(26, 13, 99);
+    background-color rgb(218, 154, 103);
     padding: 5px 1% 5px 6%;
     margin: 0;
     font-size: 4vw;
@@ -62,7 +62,7 @@
   nav a {
     text-decoration: none;
     padding: 5px 10px;
-    color: var(--secondary);
+    color: navy;
     margin-right: 10px;
     background-image: linear-gradient(270deg, var(--secondary) 0%, var(--secondary) 100%);
     background-repeat: no-repeat;
@@ -221,7 +221,7 @@
   
   /* portfolio project images */
   .run-buddy {
-    background-image: url("../images/02-run-buddy.jpg");
+    background-image: url("./screenshot\ for\ PNP.PNG");
   }
   
   .led-wall {
@@ -232,13 +232,6 @@
     background-image: url("../images/02-portfolio-2.jpg");
   }
   
-  .pastel-puzzles {
-    background-image: url("../images/02-portfolio-3.jpg");
-  }
-  
-  .surf-report {
-    background-image: url("../images/02-portfolio-4.jpg");
-  }
   
   /* end portfolio project images */
   
