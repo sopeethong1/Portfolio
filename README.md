@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Description
-This is my portfolio
+This portfolio is a responsive site that allows it's visitors to view my recent works and technologies including links to each respective GitHub repositiory, screenshots of deloyed app or functionality, and the Title. 
 
 ## Link to Portfolio 
 [Link] https://sopeethong1.github.io/Portfolio/
