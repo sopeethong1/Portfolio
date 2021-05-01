@@ -40,7 +40,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-color: rgb(218, 154, 103);
+    background-color: rgb(179, 170, 164);
     box-shadow: 0 5px 35px rgb(218, 154, 103, 0.4);
   }
   
@@ -222,17 +222,24 @@
   
   /* portfolio project images */
   .run-buddy {
-    background-image: url("./pnpphoto.PNG");
+    background-image: url("./backend.PNG");
   }
   
   .led-wall {
-    background-image: url("./password\ gen.PNG");
+    background-image: url("./portfolio\ 1.PNG");
   }
   
   .react-calc {
     background-image: url("./screenshot_final_homework1.png");
   }
   
+  .pw-gen {
+    background-image: url("./113809427-1322ad80-9736-11eb-8b62-8a903e7f40db.png");
+  }
+  
+  .parks {
+    background-image: url("./pnp.png");
+  }
   
   /* end portfolio project images */
   
